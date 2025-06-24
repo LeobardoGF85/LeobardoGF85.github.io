@@ -1,6 +1,6 @@
 # Leobardo Gómez Flores
 
-![Leobardo Gomez](./images/foto_2.png)
+![Leobardo Gomez](./images/Foto_2.jpg)
 ## Summary
 
 Computer Engineer with over 15 years of experience in Business Intelligence, Data Engineering, and Data Visualization. Proven expertise throughout the full software development lifecycle: requirements gathering, development, QA, deployment, hypercare, and documentation. Strong background in Microsoft BI Suite, reporting, databases, and programming. Certified Power BI Data Analyst with a results-driven mindset.
