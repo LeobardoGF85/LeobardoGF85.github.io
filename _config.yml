@@ -5,4 +5,4 @@ show_downloads: true
 #theme: jekyll-theme-minimal
 #theme: jekyll-theme-hacker
 #theme: jekyll-theme-dinky
-theme: architect
+theme: jekyll-theme-architect
