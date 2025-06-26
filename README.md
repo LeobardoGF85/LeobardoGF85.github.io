@@ -16,4 +16,4 @@ Computer Engineer with over 15 years of experience in Business Intelligence, Dat
 • Built Kusto queries (Azure Data Explorer) from system log traceability to support Power BI sources and data pipelines.   
 • Maintained and enhanced Snowflake data views to support reporting needs.    
 
-*Skills*: snowflake · Azure Data Factory · Lenguaje KQL · Microsoft Power BI · Microsoft Fabric
+*Skills*: Microsoft Power BI · Snowflake · Azure Data Factory · Azure Data Explorer (KQL) · Microsoft Fabric
