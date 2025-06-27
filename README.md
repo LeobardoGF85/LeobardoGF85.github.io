@@ -7,8 +7,8 @@ Computer Engineer with over 15 years of experience in Business Intelligence, Dat
 
 ![CEMEX](./images/cemex.png)
 ### CEMEX
-- Data Engineer Sr
-- October 2024 - June 2025 (Remote work)
+#### Data Engineer Sr
+October 2024 - June 2025 (Remote work)
 
 • Designed and implemented 10+ Power BI reports for multiple markets (supply chain, system log traceability, cloud services spend avoidance, FinOps).  
 • Designed and implemented a Snowflake spend avoidance solution in Power BI.   
@@ -19,8 +19,8 @@ Computer Engineer with over 15 years of experience in Business Intelligence, Dat
 *Skills*: Microsoft Power BI · Snowflake · Azure Data Factory · Azure Data Explorer (KQL) · Microsoft Fabric
 
 ### Yale University 
-- Report Visualization Engineer
-- February 2022 - October 2024 (Remote work)
+#### Report Visualization Engineer
+February 2022 - October 2024 (Remote work)
 
 • Created and maintained reports using Jasper Studio, Argos, and Power BI (demographics, registrar office records, housing survey).   
 • Performed data operations with Oracle and SQL Server.   
@@ -34,8 +34,8 @@ Computer Engineer with over 15 years of experience in Business Intelligence, Dat
 *Skills*: Microsoft Power BI · Oracle SQL Developer · Jasper Reports · Argos Reports · SQL Server Reporting Services (SSRS) · MS SQL Server · Jenkins · Github · Jira
 
 ### Mondelēz International
-- Development Development Lead DSD
-- January 2020 - January 2022 (Remote Work)
+#### Development Development Lead DSD
+January 2020 - January 2022 (Remote Work)
   
 • Active participation through several markets, across different projects. Delivering solutions for the complete project life cycle: from requirements, analysis, development, testing, automation, deploying and support.   
 • BI reports creation, support and management for the Retail Channel, using Power BI & Reporting Services (SSRS).   
@@ -47,28 +47,28 @@ Computer Engineer with over 15 years of experience in Business Intelligence, Dat
 • Collaboration with global teams to manage, configure and support the BI Infrastructure.   
 • Support to the Mexico BI Platform.   
 
-- IBS Consultant
-- June 2018 - December 2019 (Santa Fe, Mexico City)
+#### IBS Consultant
+June 2018 - December 2019 (Santa Fe, Mexico City)
 
 • Acted as a stakeholder for the Cloud report migration over Business Objects.   
 • Collaboration with the team in charge of migration.    
 
-- IBS WiSE Support
-- June 2015 - June 2018 (Santa Fe, Mexico City)
+#### IBS WiSE Support
+June 2015 - June 2018 (Santa Fe, Mexico City)
 
 • ETL Development to transition from Qo4 provider to WiSE.  
 • Reports creation for the new WiSE platform.    
 • WiSE support with collaboration of back office support teams.   
 • Hypercare for transition.    
 
-- IBS Sellout Consultant
-- May 2014 - June 2015 (Santa Fe, Mexico City)
+#### IBS Sellout Consultant
+May 2014 - June 2015 (Santa Fe, Mexico City)
 
 • ETL development for the Sell Out project, to create interfaces to bring data from several sources to the Data Warehouse.   
 • Creation, testing and validation of business rules applied in SQL.   
 
-- IBS DSD Support
-- May 2013 - May 2014 (Santa Fe, Mexico City)
+#### IBS DSD Support
+May 2013 - May 2014 (Santa Fe, Mexico City)
   
 • Support to the MX BI platform for the retail channel.   
 • Collaboration with multiple IS teams to provide useful reports to Business Units.    
