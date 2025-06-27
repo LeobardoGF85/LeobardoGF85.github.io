@@ -10,8 +10,6 @@ Computer Engineer with over 15 years of experience in Business Intelligence, Dat
 - Google IT Automation with Python · Coursera · 2021   
 - IBM Data Science · Coursera · 2019
 
-![Images](./images/)
-
 ## Work Experience
 
 ![CEMEX](./images/cemex.png)
@@ -24,6 +22,8 @@ October 2024 - June 2025 (Remote work)
 • Developed 20+ Azure Data Factory pipelines across three key projects.  
 • Built Kusto queries (Azure Data Explorer) from system log traceability to support Power BI sources and data pipelines.   
 • Maintained and enhanced Snowflake data views to support reporting needs.    
+
+[Cemex Power BI Reports](./images/cemex/pbi)
 
 *Skills*: Microsoft Power BI · Snowflake · Azure Data Factory · Azure Data Explorer (KQL) · Microsoft Fabric
 
