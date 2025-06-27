@@ -8,7 +8,9 @@ Computer Engineer with over 15 years of experience in Business Intelligence, Dat
 - Azure Data Fundamentals · Microsoft · 2024   
 - Azure Fundamentals · Microsoft · 2024   
 - Google IT Automation with Python · Coursera · 2021   
-- IBM Data Science · Coursera · 2019   
+- IBM Data Science · Coursera · 2019
+
+![Images](./images/)
 
 ## Work Experience
 
