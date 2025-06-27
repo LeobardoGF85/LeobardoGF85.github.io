@@ -4,12 +4,11 @@
 Computer Engineer with over 15 years of experience in Business Intelligence, Data Engineering, and Data Visualization. Proven expertise throughout the full software development lifecycle: requirements gathering, development, QA, deployment, hypercare, and documentation. Strong background in Microsoft BI Suite, reporting, databases, and programming. Certified Power BI Data Analyst with a results-driven mindset.
 
 ## Certifications
-- Power BI Data Analyst Associate · Microsoft · 2022 - 2025
-- Azure Data Fundamentals · Microsoft · 2024
-- Azure Fundamentals · Microsoft · 2024
-- Google IT Automation with Python · Coursera · 2021
-- IBM Data Science · Coursera · 2019
-  
+- Power BI Data Analyst Associate · Microsoft · 2022 - 2025   
+- Azure Data Fundamentals · Microsoft · 2024   
+- Azure Fundamentals · Microsoft · 2024   
+- Google IT Automation with Python · Coursera · 2021   
+- IBM Data Science · Coursera · 2019   
 
 ## Work Experience
 
