@@ -18,6 +18,7 @@ October 2024 - June 2025 (Remote work)
 
 *Skills*: Microsoft Power BI · Snowflake · Azure Data Factory · Azure Data Explorer (KQL) · Microsoft Fabric
 
+![Yale University](./images/Yale.jpeg)
 ### Yale University 
 #### Report Visualization Engineer
 February 2022 - October 2024 (Remote work)
@@ -33,6 +34,7 @@ February 2022 - October 2024 (Remote work)
 
 *Skills*: Microsoft Power BI · Oracle SQL Developer · Jasper Reports · Argos Reports · SQL Server Reporting Services (SSRS) · MS SQL Server · Jenkins · Github · Jira
 
+![Mondelēz International](./images/Mondelez.jpeg)
 ### Mondelēz International
 #### Development Development Lead DSD
 January 2020 - January 2022 (Remote Work)
@@ -75,7 +77,7 @@ May 2013 - May 2014 (Santa Fe, Mexico City)
 
 *Skills*: Microsoft Power BI · SQL Server Integration Services (SSIS) · MS SQL Server · Transact-SQL (T-SQL) · SQL Server Reporting Services (SSRS) · SQL Server Analysis Services (SSAS) · C# · Data modeling · Data Requirement · Service Now 
 
-
+![HSBC](./images/HSBC.png)
 ### HSBC
 #### BI Business Analyst
 February 2011 - June 2012 (Toluca, Mexico)
