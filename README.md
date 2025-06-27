@@ -23,7 +23,8 @@ October 2024 - June 2025 (Remote work)
 • Built Kusto queries (Azure Data Explorer) from system log traceability to support Power BI sources and data pipelines.   
 • Maintained and enhanced Snowflake data views to support reporting needs.    
 
-[Cemex Power BI Reports](./images/cemex/pbi)
+[Power BI Examples](./images/cemex/pbi)
+[ADF Pipeline Examples](./images/cemex/df)
 
 *Skills*: Microsoft Power BI · Snowflake · Azure Data Factory · Azure Data Explorer (KQL) · Microsoft Fabric
 
