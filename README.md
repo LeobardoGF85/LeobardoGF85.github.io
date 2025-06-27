@@ -82,10 +82,10 @@ May 2013 - May 2014 (Santa Fe, Mexico City)
 #### BI Business Analyst
 February 2011 - June 2012 (Toluca, Mexico)
 
-• Use of BI Tools to manage the KPIs of the Collections Area
-• Creation of functions, store procedures, scripts and data base objects for the LAM environment
-• Management for the DEV & PROD environments for LAM
-• Development & management of the Reports (SSRS) and ETLs (SSIS) for the daily operation
+• Use of BI Tools to manage the KPIs of the Collections Area   
+• Creation of functions, store procedures, scripts and data base objects for the LAM environment   
+• Management for the DEV & PROD environments for LAM    
+• Development & management of the Reports (SSRS) and ETLs (SSIS) for the daily operation   
 
 *Skills*: MS SQL Server · SQL Server Integration Services (SSIS) · Transact-SQL (T-SQL) · SQL Server Reporting Services (SSRS)
 
@@ -94,8 +94,8 @@ February 2011 - June 2012 (Toluca, Mexico)
 #### BI Business Analyst
 December 2009 - February 2011 (Toluca, Mexico)
 
-• Management & Development for the SISER application
-• Development for the web application "Indicadores de Gestión" (SSRS & Sharepoint) as well as development and management for the related database
-• Development for the web application "Carpeta Informativa" (SSRS, Sharepoint & SQL)
+• Management & Development for the SISER application    
+• Development for the web application "Indicadores de Gestión" (SSRS & Sharepoint) as well as development and management for the related database   
+• Development for the web application "Carpeta Informativa" (SSRS, Sharepoint & SQL)   
 
 *Skills*: MS SQL Server · SQL Server Integration Services (SSIS) · Transact-SQL (T-SQL) · SQL Server Reporting Services (SSRS) · Sharepoint · ASP
